@@ -29,7 +29,7 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
       font-weight: bold;
       margin: 0 0 8px 0;
     ">公众号</p>
-    <img src="/blog/img/weixin.jpg"  style="width:100%;" />
+    <img src="/img/weixin.jpg"  style="width:100%;" />
     关注公众号【在路上的Coder】，一起成长！
     </p>
     </div>`,
