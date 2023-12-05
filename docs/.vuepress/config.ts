@@ -45,6 +45,12 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         items: [
         ],
       },
+	  {
+        text: '分布式专栏',
+        link: '/dcs/',
+        items: [
+        ],
+      },
       {
         text: '随笔',
         link: '/more/',
