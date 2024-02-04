@@ -51,6 +51,18 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         items: [
         ],
       },
+	  {
+        text: 'Linux网络专栏',
+        link: '/linux/',
+        items: [
+        ],
+      },
+	  {
+        text: '手写系列专栏',
+        link: '/self/',
+        items: [
+        ],
+      },
       {
         text: '随笔',
         link: '/more/',
