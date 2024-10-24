@@ -12,7 +12,7 @@
 <h2 align="center">vuepress-theme-vdoing</h2>
 
  [文档](https://doc.Coder.com/)  |
- [效果](https://Coder.com/)  |
+ [效果](https://Coder.com/)  |  
  [本仓库的gitee镜像](https://gitee.com/Coder/vuepress-theme-vdoing)
 
 
